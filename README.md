@@ -6,7 +6,7 @@ setup-
 4> write npm install 
 5> use npm run dev for running project
 6> You can also download zip file and extract it to run the project .
-
+Project working video link ==  https://drive.google.com/file/d/1DBwNe8v7wTF1-curQTv-3MoGMBqPTc_i/view?usp=drive_link  
 HOW I APPROACHED===>
 1>Project Setup =>
 I chose Vite for faster development and hot reload experience. I structured the project using modular React components and separate CSS files for clarity and maintainability.
