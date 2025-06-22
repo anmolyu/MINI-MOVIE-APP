@@ -15,7 +15,7 @@ const SearchBar = ({ setMovies }) => {
     }
     try {
       const response = await fetch(
-        `http://www.omdbapi.com/?s=${searchTerm}&apikey=4a3b711b`
+        `https://www.omdbapi.com/?s=${searchTerm}&apikey=4a3b711b`
       );
       const data = await response.json();
       if (data.Search) {
